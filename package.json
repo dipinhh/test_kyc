@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-hypertrack",
+  "version": "0.1.0",
+  "description": "test",
+  "cordova": {
+    "id": "cordova-plugin-hypertrack",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
